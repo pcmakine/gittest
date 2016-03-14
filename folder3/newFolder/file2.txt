@@ -1,4 +1,1 @@
-this is first row in the second test file in folder 3
-this is second row in the second test file in folder 3
-
-changes
+initial
